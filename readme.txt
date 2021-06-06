@@ -10,5 +10,6 @@ A list of urls of the online resources you consulted
  https://css-tricks.com/almanac/properties/t/text-indent/
  https://www.w3schools.com/css/css_font.asp
  https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp
+ https://www.w3schools.com/html/html_styles.asp
  
 A list of classmates or other individuals you consulted
