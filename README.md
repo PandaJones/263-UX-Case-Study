@@ -1,6 +1,6 @@
-#263 UX Case Study
+# 263 UX Case Study
 
-##A list containing the basic HTML content, CSS styling, and advanced features you included in your portfolio
+## A list containing the basic HTML content, CSS styling, and advanced features you included in your portfolio
 
 1. HTML Content 
    1. has a image with descriptive alt text
@@ -13,7 +13,7 @@
 3. Advanced features
    1. responsive sidebar (may change in the future)
 
-##A list of urls of the online resources you consulted
+## A list of urls of the online resources you consulted
 
  https://www.w3schools.com/html/html_css.asp
  https://www.w3schools.com/html/html_links.asp
@@ -24,11 +24,11 @@
  https://www.w3schools.com/howto/howto_css_sidebar_responsive.asp
  https://www.w3schools.com/html/html_styles.asp
  
-##A list of classmates or other individuals you consulted
+## A list of classmates or other individuals you consulted
 
 
 
-#TO-DO List
+# TO-DO List
 
 Add in the actual content into the paragraph with links to our google docs
 
