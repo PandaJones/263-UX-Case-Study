@@ -36,28 +36,23 @@
 .sidebar {
   margin: 0;
   padding: 0;
-  width: 200px;
-  background-color: #C1C1C1;
-  position: fixed;
   height: 100%;
+  width: 200px;
+  background-color: #04AA6D;
+  position: fixed;
   overflow: auto;
 }
 
 .sidebar a {
   display: block;
-  color: black;
+  color: white;
   padding: 16px;
   text-decoration: none;
 }
 
-.sidebar a.active {
-  background-color: #04AA6D;
-  color: white;
-}
-
-.sidebar a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+.sidebar a:hover {
+    color: white;
+    background-color: #0a553d;
 }
 
 div.content {
