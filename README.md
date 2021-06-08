@@ -36,10 +36,10 @@ Here are some recommended content from Canvas.  (Covered topics will be striketh
 1. ~~The problem you were trying to solve~~ 
 2. ~~A description of the methods you employed~~ 
 3. ~~The results of your work, including:~~
-   1. Competitive analysis
+   1. ~~Competitive analysis~~
    2. ~~Understanding of your users and your personas~~
-   3. The final design
-   4. Evaluation results
+   3. ~~The final design~~
+   4. ~~Evaluation results~~
 4. ~~Reflections on the process and the outcomes~~
 5. ~~Acknowledgements (including any outside help not mentioned elsewhere)~~
 
