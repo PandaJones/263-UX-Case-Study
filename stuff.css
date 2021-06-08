@@ -1,11 +1,36 @@
-.first {
- text-indent: 2em;
+
+.draft2 {
+ margin-left: 10px;
+ font-family: "Brush Script M7", cursive;
  color: red;
 }
 
-.second {
- text-indent: 2em;
- font-family: "Brush Script M7", cursive;
+.draft3 {
+ margin-left: 10px;
+}
+
+.draft41 {
+ margin-left: 10px;
+}
+
+.draft42 {
+ margin-left: 10px;
+}
+
+.draft43 {
+ margin-left: 10px;
+}
+
+.draft44 {
+ margin-left: 10px;
+}
+
+.draft5 {
+ margin-left: 10px;
+}
+
+.draft6 {
+ margin-left: 10px;
 }
 
 .sidebar {
