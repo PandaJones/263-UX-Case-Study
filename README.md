@@ -30,24 +30,24 @@
 
 # TO-DO List
 
-Add in the actual content into the paragraph with links to our google docs
+* Add in the actual content into the paragraph with links to our google docs
 
-Here are some recommended content from Canvas.  (Covered topics will be strikethroughed.)
-1. ~~The problem you were trying to solve~~ 
-2. ~~A description of the methods you employed~~ 
-3. ~~The results of your work, including:~~
-   1. ~~Competitive analysis~~
-   2. ~~Understanding of your users and your personas~~
-   3. ~~The final design~~
-   4. ~~Evaluation results~~
-4. ~~Reflections on the process and the outcomes~~
-5. ~~Acknowledgements (including any outside help not mentioned elsewhere)~~
+* Here are some recommended content from Canvas.  (Covered topics will be strikethroughed.)
+    1. ~~The problem you were trying to solve~~ 
+    2. ~~A description of the methods you employed~~ 
+    3. ~~The results of your work, including:~~
+       1. ~~Competitive analysis~~
+       2. ~~Understanding of your users and your personas~~
+       3. ~~The final design~~
+       4. ~~Evaluation results~~
+    4. ~~Reflections on the process and the outcomes~~
+    5. ~~Acknowledgements (including any outside help not mentioned elsewhere)~~
 
-Add in images of our wireframe and mockup to both the HTML and the Github
-Check both HTML and CSS with https://validator.w3.org/ (Use the text input, not the file input)
+* Add in images of our wireframe and mockup to both the HTML and the Github
+* Check both HTML and CSS with https://validator.w3.org/ (Use the text input, not the file input)
 
-Check for accessibility with https://achecker.achecks.ca/checker/index.php (Aim to resolve all of the errors, but think through whether the warnings (or potential problems) are actually problems. Include separate checker files for each screen in your webpage.)
+* Check for accessibility with https://achecker.achecks.ca/checker/index.php (Aim to resolve all of the errors, but think through whether the warnings (or potential problems) are actually problems. Include separate checker files for each screen in your webpage.)
 
-If we are using the sidebar, label sections as you go and add it into the sidebar.
+* If we are using the sidebar, label sections as you go and add it into the sidebar.
 
-Responsive content (so far the sidebar is responsive, unsure about images or text)
+* Responsive content (so far the sidebar is responsive, unsure about images or text)
