@@ -39,18 +39,4 @@ Usage: open the index.html in any browser or go to https://upbeat-borg-bf18f4.ne
  https://www.w3schools.com/html/html_styles.asp
  
 ## A list of classmates or other individuals you consulted
-
-
-
-# TO-DO List
-
-(completed part would be strikethroughed)
-
-* Add in images of our wireframe and mockup to ~~both the HTML and~~ the Github
-* Check both HTML and CSS with https://validator.w3.org/ (Use the text input, not the file input)
-
-* Check for accessibility with https://achecker.achecks.ca/checker/index.php (Aim to resolve all of the errors, but think through whether the warnings (or potential problems) are actually problems. Include separate checker files for each screen in your webpage.)
-* Without using a webpage, https://achecker.us/checker/index.php . This allows for raw text input for accessibility
-
-
-* Responsive content (so far the sidebar is responsive, unsure about images or text)
+ Thanks to Kenzo for the website to hosting this github without paying a cent.
