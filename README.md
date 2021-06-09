@@ -54,6 +54,7 @@
 * Check both HTML and CSS with https://validator.w3.org/ (Use the text input, not the file input)
 
 * Check for accessibility with https://achecker.achecks.ca/checker/index.php (Aim to resolve all of the errors, but think through whether the warnings (or potential problems) are actually problems. Include separate checker files for each screen in your webpage.)
+* Without using a webpage, https://achecker.us/checker/index.php . This allows for raw text input for accessibility
 
 * If we are using the sidebar, label sections as you go and add it into the sidebar.
 
