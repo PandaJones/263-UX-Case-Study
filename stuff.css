@@ -18,6 +18,11 @@
   color: #6AADCD;
 }
 
+.members {
+  text-align: center;
+  font-family: "Brush Script M7", cursive;
+}
+
 .draft2 {
  margin-left: 10px;
 }
