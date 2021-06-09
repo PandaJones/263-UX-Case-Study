@@ -2,7 +2,7 @@
 
 ###Team 2: Giselle Meza, Zenyu Chang, Zhi-Zhan Jiang
 
-Usage: open the index.html in any browser.
+Usage: open the index.html in any browser or go to https://upbeat-borg-bf18f4.netlify.app/ 
 
 ---
 (previous content)
@@ -18,7 +18,7 @@ Usage: open the index.html in any browser.
    2. text has color
    3. text has different fonts
 3. Advanced features
-   1. responsive sidebar (may change in the future)
+   1. responsive sidebar
 
 ## A list of urls of the online resources you consulted
 
