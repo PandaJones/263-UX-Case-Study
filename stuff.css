@@ -71,7 +71,7 @@ div.content {
 }
 footer {
   text-align: center;
-  position: page;
+  /*position: page;*/
   padding: 3px;
   background-color: #042e3e;
   color: white;
