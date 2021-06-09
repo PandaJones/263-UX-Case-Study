@@ -13,12 +13,23 @@
   color: #6AADCD;
 }
 
+.fourth{
+  text-align: center;
+  color: #6AADCD;
+}
+
 .draft2 {
  margin-left: 10px;
 }
 
 .para_content{
     margin-left: 10px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .sidebar {
