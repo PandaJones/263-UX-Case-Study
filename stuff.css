@@ -1,16 +1,24 @@
 
+.first{
+  color: #054E72;
+  font-weight: bold;
+  font-family: "Trirong", serif;
+}
+
+.second{
+  color: #4190B6;
+}
+.third{
+  margin-left: 10px;
+  color: #6AADCD;
+}
+
 .draft2 {
  margin-left: 10px;
- font-family: "Brush Script M7", cursive;
- color: red;
 }
 
 .para_content{
     margin-left: 10px;
-}
-
-.subtitles{
-  margin-left: 10px;
 }
 
 .sidebar {
@@ -37,7 +45,7 @@
 
 div.content {
   margin-left: 200px;
-  padding: 1px 16px;
+  padding: 1px 100px 50px 40px;
   height: 1000px;
 }
 
